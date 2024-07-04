@@ -21,11 +21,6 @@ body {
   margin-top: 20px;
 }
 
-.question-image {
-  width: 400px;
-  height: 400px;
-}
-
 #start > button {
   margin-top: 1vh;
 }
