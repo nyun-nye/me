@@ -41,13 +41,14 @@ body {
 }
 
 #result > #qu {
-  color: rgb(255, 140, 0);
+  margin-top: 1rem;
+  color: rgb(58, 65, 194);
   font-size: 1.5rem;
 }
 
 #start > img {
-  width: 300px;
-  height: 200px;
+  width: 500px;
+  height: 250px;
   display: block;
   margin: 5vw auto 0 auto;
 }
@@ -67,17 +68,17 @@ body {
 #start > p {
   font-size: 2.5rem;
   margin-top: 5vh;
-  color: orange;
+  color: rgb(60, 90, 222);
 }
 
 #start > #maker {
   font-size: 1rem;
-  color: black;
+  color: gray;
 }
 
 #start > #require {
   font-size: 1.5rem;
-  color: rgb(255, 0, 0);
+  color: rgb(84, 109, 220);
 }
 
 #question > #pgrNum {
@@ -116,10 +117,11 @@ body {
 
 .result-btn button {
   font-size: 1.5rem;
-  background-color: #ffc107;
+  background-color: #e172ed;
   border: none;
 }
 
 .result-btn button:hover {
-  background-color: #e0a800;
+  background-color: #d800e0;
 }
+
